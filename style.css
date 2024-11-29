@@ -1,0 +1,88 @@
+
+.block {
+    width: 10vw;
+    height: 10vw;
+    background-color: rgb(172, 144, 144);
+    padding: 1rem;
+    color: #ede8e1;
+}
+
+.left {
+float: left;
+margin-right: 1rem;
+}
+
+.right {
+    float: right;
+    margin-left: 1rem;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    font-size: 23px;
+  background: #eae5df;
+}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+button, input, textarea, select {
+font: inherit;
+background: rgb(255, 250, 240);
+}
+
+p {
+    color: black;
+    font-size: 1rem;
+    width: 90ch;
+    line-height: 1.5;
+    font-family: sans-serif;
+   
+}
+
+.gray {
+    color: gray;
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+    border:2px dashed gold;
+    width:20%;
+    padding: 0.5rem;
+    margin-right: 1.1em;
+    margin-bottom: 1.1em;
+    margin-left: 1.1em;
+    margin-top: 1.1em;
+}
+#second {
+font-style: italic;
+}
+
+span {
+text-transform: uppercase--;
+background-color: #bedae0;
+}
+.container {
+    border: 2px double forestgreen;
+    margin-top: 1.1em;
+    padding: 1.5em;
+    font-size: 1.5rem;
+    margin-right: 1.1em;
+    margin-bottom: 1.1em;
+    margin-left: 1.1em;
+}
+a:hover {
+    color: dodgerblue
+}
+
+.examplep {
+margin-top: 1rem;
+padding-left: 20px;
+border: 2px solid red;
+}
